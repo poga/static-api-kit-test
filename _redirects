@@ -1,1 +1,2 @@
+/ /test.json 200
 /test.json page=:p /test-:p.json 301
