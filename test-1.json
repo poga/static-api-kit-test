@@ -1,0 +1,1 @@
+{"meta":{"total":2},"links":{"first":"https://example.com/test.json?page=0","last":"https://example.com/test.json?page=1","next":"https://example.com/test.json?page=2","prev":"https://example.com/test.json?page=0"},"data":[{"type":"test","id":"6","attributes":{"name":"f"}},{"type":"test","id":"7","attributes":{"name":"g"}}]}
