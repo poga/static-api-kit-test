@@ -1,3 +1,4 @@
 / /test.json 200
 /store.json id=:id  /blog/:id  301
 /test page=:p  /test-:p.json  301
+/test.json page=:p  /test-:p.json  301
