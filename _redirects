@@ -1,2 +1,3 @@
 / /test.json
+/ p=:p /test/p 301
 /test.json page=:page /test/:page 301
