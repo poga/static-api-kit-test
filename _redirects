@@ -1,3 +1,1 @@
-/ /test.json 200
-/test /test.json 200
-/test page=:p /test-:p.json 200
+/users.json page=:p /users-:p.json 200!
