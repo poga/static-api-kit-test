@@ -1,0 +1,1 @@
+/tests.json page=:page /tests-:page.json 200
