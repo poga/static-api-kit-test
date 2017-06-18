@@ -1,1 +1,2 @@
-/users.json page=:p /users-:p.json 200!
+/trades page=:p /trades-:p.json 200
+/trades /trades-0.json 200!
