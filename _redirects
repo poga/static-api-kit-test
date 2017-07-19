@@ -1,8 +1,8 @@
-/users.json filter[users]=:filter page=:p /company-filtered/:filter/g00gle-:p.json 200!
-/users.json filter[users]=:filter /company-filtered/:filter/g00gle-0.json 200!
-/users.json filter[users]=:filter page=:p /company-filtered/:filter/facb-:p.json 200!
-/users.json filter[users]=:filter /company-filtered/:filter/facb-0.json 200!
-/users.json filter[users]=:filter page=:p /company-filtered/:filter/ama-:p.json 200!
-/users.json filter[users]=:filter /company-filtered/:filter/ama-0.json 200!
+/users.json filter[company]=:filter page=:p /company-filtered/:filter/g00gle-:p.json 200!
+/users.json filter[company]=:filter /company-filtered/:filter/g00gle-0.json 200!
+/users.json filter[company]=:filter page=:p /company-filtered/:filter/facb-:p.json 200!
+/users.json filter[company]=:filter /company-filtered/:filter/facb-0.json 200!
+/users.json filter[company]=:filter page=:p /company-filtered/:filter/ama-:p.json 200!
+/users.json filter[company]=:filter /company-filtered/:filter/ama-0.json 200!
 /users.json page=:p /users-:p.json 200!
 /users.json /users-0.json 200!
