@@ -1,1 +1,1 @@
-{"links":{"first":"http://example.com/users.json?filter[company]=ama&page=0","last":"http://example.com/users.json?filter[company]=ama&page=0"},"data":[{"type":"users","id":"7","attributes":{"age":"49","company":"ama","id":"7","name":"Sandy"}}]}
+{"links":{"first":"http://machinist-chipmunk-44203.netlify.com/users.json?filter[company]=ama&page=0","last":"http://machinist-chipmunk-44203.netlify.com/users.json?filter[company]=ama&page=0"},"data":[{"type":"users","id":"7","attributes":{"age":"49","company":"ama","id":"7","name":"Sandy"}}]}
