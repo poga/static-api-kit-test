@@ -1,0 +1,1 @@
+{"meta":{"total-pages":4},"links":{"first":"http://example.com/users.json?page=0","last":"http://example.com/users.json?page=3","prev":"http://example.com/users.json?page=2"},"data":[{"type":"users","id":"7","attributes":{"age":"49","company":"ama","id":"7","name":"Sandy"}}]}
