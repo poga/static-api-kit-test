@@ -1,2 +1,3 @@
+# /users.json company=:filter /company-filtered/:filter/0.json 200!
 /users.json page=:p /users-:p.json 200!
 /users.json /users-0.json 200!
